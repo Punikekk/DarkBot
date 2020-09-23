@@ -140,6 +140,7 @@ public class EntityList extends Updatable {
             entityRegistry.clearCache();
 
             obstacles.clear();
+            unknown.clear();
             fakeNpc.removed();
 
             allEntities.forEach(entities -> {

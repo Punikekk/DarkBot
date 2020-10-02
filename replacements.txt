@@ -2,4 +2,4 @@
 _-UV=*Main*
 _-P1v=*Screen Manager*
 _-15e=*Gui Manager*
-//didnt check for other names on that version
+//didnt check for other names on that version.
